@@ -1,0 +1,10 @@
+D:\UNPAD\Kuliah\Kelas\PCD\UTS_Praktikum\UTS_Praktikum\bin\Debug\UTS_Praktikum.exe.config
+D:\UNPAD\Kuliah\Kelas\PCD\UTS_Praktikum\UTS_Praktikum\bin\Debug\UTS_Praktikum.exe
+D:\UNPAD\Kuliah\Kelas\PCD\UTS_Praktikum\UTS_Praktikum\bin\Debug\UTS_Praktikum.pdb
+D:\UNPAD\Kuliah\Kelas\PCD\UTS_Praktikum\UTS_Praktikum\obj\Debug\UTS_Praktikum.csprojResolveAssemblyReference.cache
+D:\UNPAD\Kuliah\Kelas\PCD\UTS_Praktikum\UTS_Praktikum\obj\Debug\UTS_Praktikum.Form1.resources
+D:\UNPAD\Kuliah\Kelas\PCD\UTS_Praktikum\UTS_Praktikum\obj\Debug\UTS_Praktikum.Properties.Resources.resources
+D:\UNPAD\Kuliah\Kelas\PCD\UTS_Praktikum\UTS_Praktikum\obj\Debug\UTS_Praktikum.csproj.GenerateResource.Cache
+D:\UNPAD\Kuliah\Kelas\PCD\UTS_Praktikum\UTS_Praktikum\obj\Debug\UTS_Praktikum.csproj.CoreCompileInputs.cache
+D:\UNPAD\Kuliah\Kelas\PCD\UTS_Praktikum\UTS_Praktikum\obj\Debug\UTS_Praktikum.exe
+D:\UNPAD\Kuliah\Kelas\PCD\UTS_Praktikum\UTS_Praktikum\obj\Debug\UTS_Praktikum.pdb

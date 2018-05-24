@@ -1,0 +1,16 @@
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\TugasSebelumUAS.exe.config
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\TugasSebelumUAS.exe
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\TugasSebelumUAS.pdb
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.dll
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.Imaging.dll
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.Math.dll
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.xml
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.Imaging.xml
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.Math.xml
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.csprojResolveAssemblyReference.cache
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.Form1.resources
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.Properties.Resources.resources
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.csproj.GenerateResource.Cache
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.csproj.CoreCompileInputs.cache
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.exe
+D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.pdb
