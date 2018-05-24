@@ -37,6 +37,8 @@
             this.changePhotoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.textBox1 = new System.Windows.Forms.NumericUpDown();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.menuStrip1.SuspendLayout();
@@ -45,7 +47,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::TugasSebelumUAS.Properties.Resources._0167d9936fe20b71190096d0e48a4bce_download_this_image_as_sleep_icon_clipart_600_387;
+            this.pictureBox1.Image = global::TugasSebelumUAS.Properties.Resources.sample8;
             this.pictureBox1.Location = new System.Drawing.Point(12, 27);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(355, 308);
@@ -106,14 +108,14 @@
             // changePhotoToolStripMenuItem
             // 
             this.changePhotoToolStripMenuItem.Name = "changePhotoToolStripMenuItem";
-            this.changePhotoToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.changePhotoToolStripMenuItem.Size = new System.Drawing.Size(177, 26);
             this.changePhotoToolStripMenuItem.Text = "Change Photo";
             this.changePhotoToolStripMenuItem.Click += new System.EventHandler(this.changePhotoToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(177, 26);
             this.exitToolStripMenuItem.Text = "Exit";
             // 
             // textBox1
@@ -133,11 +135,33 @@
             0,
             0});
             // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(13, 392);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(354, 45);
+            this.button3.TabIndex = 7;
+            this.button3.Text = "Hough Line";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(498, 392);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(354, 45);
+            this.button4.TabIndex = 8;
+            this.button4.Text = "Hough Circle";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(864, 398);
+            this.ClientSize = new System.Drawing.Size(864, 481);
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -168,6 +192,8 @@
         private System.Windows.Forms.ToolStripMenuItem changePhotoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
         private System.Windows.Forms.NumericUpDown textBox1;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
     }
 }
 

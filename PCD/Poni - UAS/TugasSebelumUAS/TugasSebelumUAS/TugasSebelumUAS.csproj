@@ -91,5 +91,8 @@
   <ItemGroup>
     <None Include="Resources\0167d9936fe20b71190096d0e48a4bce_download-this-image-as-sleep-icon-clipart_600-387.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sample8.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

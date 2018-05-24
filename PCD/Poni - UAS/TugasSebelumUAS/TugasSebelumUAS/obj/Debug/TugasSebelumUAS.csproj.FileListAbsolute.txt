@@ -14,3 +14,19 @@ D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.cspro
 D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.csproj.CoreCompileInputs.cache
 D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.exe
 D:\Developing\C#\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.pdb
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\TugasSebelumUAS.exe.config
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\TugasSebelumUAS.exe
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\TugasSebelumUAS.pdb
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.dll
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.Imaging.dll
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.Math.dll
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.xml
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.Imaging.xml
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\bin\Debug\AForge.Math.xml
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.csprojResolveAssemblyReference.cache
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.Form1.resources
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.Properties.Resources.resources
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.csproj.GenerateResource.Cache
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.csproj.CoreCompileInputs.cache
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.exe
+D:\UNPAD\Kuliah\Tugas\PCD\Poni - UAS\TugasSebelumUAS\TugasSebelumUAS\obj\Debug\TugasSebelumUAS.pdb
