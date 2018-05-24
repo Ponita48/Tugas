@@ -1,0 +1,17 @@
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\bin\Debug\UASPrakPCD.exe.config
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\bin\Debug\UASPrakPCD.exe
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\bin\Debug\UASPrakPCD.pdb
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\obj\Debug\UASPrakPCD.csprojResolveAssemblyReference.cache
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\obj\Debug\UASPrakPCD.Form1.resources
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\obj\Debug\UASPrakPCD.Properties.Resources.resources
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\obj\Debug\UASPrakPCD.csproj.GenerateResource.cache
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\obj\Debug\UASPrakPCD.csproj.CoreCompileInputs.cache
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\obj\Debug\UASPrakPCD.exe
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\obj\Debug\UASPrakPCD.pdb
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\bin\Debug\AForge.dll
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\bin\Debug\AForge.Imaging.dll
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\bin\Debug\AForge.Math.dll
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\bin\Debug\AForge.xml
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\bin\Debug\AForge.Imaging.xml
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\bin\Debug\AForge.Math.xml
+D:\Doc\K6\PCD\Kelas\VS Program\UASPrakPCD\UASPrakPCD\obj\Debug\UASPrakPCD.csproj.CopyComplete
