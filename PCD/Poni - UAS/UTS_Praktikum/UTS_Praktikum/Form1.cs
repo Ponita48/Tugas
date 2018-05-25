@@ -1065,6 +1065,13 @@ namespace UTS_Praktikum
             MessageBox.Show(hehe1,"About");
         }
 
+        private void resetToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            pictureBox3.Image = UTS_Praktikum.Properties.Resources._HorribleSubs__Karakai_Jouzu_no_Takagi_san___04__480p__mkv_snapshot_07_55__2018_01_30_08_19_41_;
+            pictureBox1.Image = UTS_Praktikum.Properties.Resources._HorribleSubs__Karakai_Jouzu_no_Takagi_san___04__480p__mkv_snapshot_07_55__2018_01_30_08_19_42_;
+            pictureBox2.Image = new Bitmap(pictureBox1.Image.Width, pictureBox1.Image.Height);
+        }
+
         private Bitmap TranslateImage(Bitmap bmp, int x, int y)
         {
             Bitmap translatedImage = new Bitmap(bmp.Width, bmp.Height);

@@ -106,6 +106,7 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.resetToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -760,7 +761,8 @@
             // 
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.gantiFotoToolStripMenuItem,
-            this.simpanHasilToolStripMenuItem});
+            this.simpanHasilToolStripMenuItem,
+            this.resetToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(44, 24);
             this.fileToolStripMenuItem.Text = "File";
@@ -768,14 +770,14 @@
             // gantiFotoToolStripMenuItem
             // 
             this.gantiFotoToolStripMenuItem.Name = "gantiFotoToolStripMenuItem";
-            this.gantiFotoToolStripMenuItem.Size = new System.Drawing.Size(171, 26);
+            this.gantiFotoToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
             this.gantiFotoToolStripMenuItem.Text = "Ganti Foto";
             this.gantiFotoToolStripMenuItem.Click += new System.EventHandler(this.gantiFotoToolStripMenuItem_Click);
             // 
             // simpanHasilToolStripMenuItem
             // 
             this.simpanHasilToolStripMenuItem.Name = "simpanHasilToolStripMenuItem";
-            this.simpanHasilToolStripMenuItem.Size = new System.Drawing.Size(171, 26);
+            this.simpanHasilToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
             this.simpanHasilToolStripMenuItem.Text = "Simpan Hasil";
             this.simpanHasilToolStripMenuItem.Click += new System.EventHandler(this.simpanHasilToolStripMenuItem_Click);
             // 
@@ -1114,6 +1116,13 @@
             this.label4.Text = "X";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
+            // resetToolStripMenuItem
+            // 
+            this.resetToolStripMenuItem.Name = "resetToolStripMenuItem";
+            this.resetToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.resetToolStripMenuItem.Text = "Reset";
+            this.resetToolStripMenuItem.Click += new System.EventHandler(this.resetToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
@@ -1251,6 +1260,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem resetToolStripMenuItem;
     }
 }
 
