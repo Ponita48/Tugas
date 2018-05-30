@@ -269,6 +269,7 @@ namespace UTS_Praktikum
                     }
                     p += nOffset;
                     pSrc += nOffset;
+
                 }
                 bm.UnlockBits(bmData);
                 b.UnlockBits(bmSrc);
@@ -1070,6 +1071,11 @@ namespace UTS_Praktikum
             pictureBox3.Image = UTS_Praktikum.Properties.Resources._HorribleSubs__Karakai_Jouzu_no_Takagi_san___04__480p__mkv_snapshot_07_55__2018_01_30_08_19_41_;
             pictureBox1.Image = UTS_Praktikum.Properties.Resources._HorribleSubs__Karakai_Jouzu_no_Takagi_san___04__480p__mkv_snapshot_07_55__2018_01_30_08_19_42_;
             pictureBox2.Image = new Bitmap(pictureBox1.Image.Width, pictureBox1.Image.Height);
+        }
+
+        private void exitToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
         }
 
         private Bitmap TranslateImage(Bitmap bmp, int x, int y)

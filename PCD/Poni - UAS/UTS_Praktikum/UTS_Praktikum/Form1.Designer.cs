@@ -78,6 +78,8 @@
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gantiFotoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.simpanHasilToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.resetToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.button19 = new System.Windows.Forms.Button();
             this.tableLayoutPanel7 = new System.Windows.Forms.TableLayoutPanel();
@@ -106,7 +108,6 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.resetToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -189,7 +190,7 @@
             this.tableLayoutPanel1.Controls.Add(this.textBox3, 2, 0);
             this.tableLayoutPanel1.Controls.Add(this.textBox2, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.textBox1, 0, 0);
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(390, 113);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(824, 661);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 3;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
@@ -309,7 +310,7 @@
             // textBox10
             // 
             this.textBox10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox10.Location = new System.Drawing.Point(392, 310);
+            this.textBox10.Location = new System.Drawing.Point(746, 772);
             this.textBox10.Multiline = true;
             this.textBox10.Name = "textBox10";
             this.textBox10.ReadOnly = true;
@@ -321,7 +322,7 @@
             // textBox11
             // 
             this.textBox11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox11.Location = new System.Drawing.Point(524, 310);
+            this.textBox11.Location = new System.Drawing.Point(746, 661);
             this.textBox11.Multiline = true;
             this.textBox11.Name = "textBox11";
             this.textBox11.ReadOnly = true;
@@ -333,7 +334,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(398, 290);
+            this.label1.Location = new System.Drawing.Point(752, 752);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(48, 17);
             this.label1.TabIndex = 7;
@@ -342,7 +343,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(531, 290);
+            this.label2.Location = new System.Drawing.Point(753, 641);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(46, 17);
             this.label2.TabIndex = 8;
@@ -503,7 +504,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(404, 93);
+            this.label3.Location = new System.Drawing.Point(838, 641);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(169, 17);
             this.label3.TabIndex = 16;
@@ -762,7 +763,8 @@
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.gantiFotoToolStripMenuItem,
             this.simpanHasilToolStripMenuItem,
-            this.resetToolStripMenuItem});
+            this.resetToolStripMenuItem,
+            this.exitToolStripMenuItem});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(44, 24);
             this.fileToolStripMenuItem.Text = "File";
@@ -770,16 +772,30 @@
             // gantiFotoToolStripMenuItem
             // 
             this.gantiFotoToolStripMenuItem.Name = "gantiFotoToolStripMenuItem";
-            this.gantiFotoToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.gantiFotoToolStripMenuItem.Size = new System.Drawing.Size(171, 26);
             this.gantiFotoToolStripMenuItem.Text = "Ganti Foto";
             this.gantiFotoToolStripMenuItem.Click += new System.EventHandler(this.gantiFotoToolStripMenuItem_Click);
             // 
             // simpanHasilToolStripMenuItem
             // 
             this.simpanHasilToolStripMenuItem.Name = "simpanHasilToolStripMenuItem";
-            this.simpanHasilToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
+            this.simpanHasilToolStripMenuItem.Size = new System.Drawing.Size(171, 26);
             this.simpanHasilToolStripMenuItem.Text = "Simpan Hasil";
             this.simpanHasilToolStripMenuItem.Click += new System.EventHandler(this.simpanHasilToolStripMenuItem_Click);
+            // 
+            // resetToolStripMenuItem
+            // 
+            this.resetToolStripMenuItem.Name = "resetToolStripMenuItem";
+            this.resetToolStripMenuItem.Size = new System.Drawing.Size(171, 26);
+            this.resetToolStripMenuItem.Text = "Reset";
+            this.resetToolStripMenuItem.Click += new System.EventHandler(this.resetToolStripMenuItem_Click);
+            // 
+            // exitToolStripMenuItem
+            // 
+            this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(171, 26);
+            this.exitToolStripMenuItem.Text = "Exit";
+            this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click_1);
             // 
             // aboutToolStripMenuItem
             // 
@@ -983,7 +999,7 @@
             this.groupBox8.Controls.Add(this.label6);
             this.groupBox8.Controls.Add(this.label5);
             this.groupBox8.Controls.Add(this.label4);
-            this.groupBox8.Location = new System.Drawing.Point(199, 681);
+            this.groupBox8.Location = new System.Drawing.Point(15, 681);
             this.groupBox8.Name = "groupBox8";
             this.groupBox8.Size = new System.Drawing.Size(664, 150);
             this.groupBox8.TabIndex = 24;
@@ -1116,18 +1132,11 @@
             this.label4.Text = "X";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
-            // resetToolStripMenuItem
-            // 
-            this.resetToolStripMenuItem.Name = "resetToolStripMenuItem";
-            this.resetToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
-            this.resetToolStripMenuItem.Text = "Reset";
-            this.resetToolStripMenuItem.Click += new System.EventHandler(this.resetToolStripMenuItem_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
-            this.ClientSize = new System.Drawing.Size(1078, 879);
+            this.ClientSize = new System.Drawing.Size(1078, 913);
             this.Controls.Add(this.groupBox8);
             this.Controls.Add(this.groupBox7);
             this.Controls.Add(this.groupBox6);
@@ -1261,6 +1270,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem resetToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
     }
 }
 
